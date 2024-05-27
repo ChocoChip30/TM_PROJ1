@@ -1,0 +1,73 @@
+.formRegister{
+    padding: 40px;
+}
+
+.textR{
+align-self: center;
+font-size: 30px;
+padding-left: 550px;
+margin: 20px;
+}
+
+.form-label{
+    float:left
+}
+.col-sm-2 col-form-label{
+    float:left;
+}
+
+.form-control{
+    
+    width:600px;
+    justify-content: left;
+}
+.exampleFormControlInput1{
+    margin: auto;
+    width: 50%;
+      justify-content: left;
+}
+
+.RegisterForm{
+    margin: auto;
+    width: 80%;
+    justify-content: center;
+    padding-left:300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    /* border: 2px solid rgb(231, 154, 83); */
+    border-radius: 5px;
+    border-style: double;
+    /* background-color: rgb(233, 233, 233); */
+    background: rgba(252, 248, 244, 0.58);
+border: 1px solid #EAB875;
+}
+.App1{
+    /* background-color: rgb(191, 223, 234); */
+    background-image: linear-gradient(to right, rgb(137, 219, 230) , rgb(229, 192, 81));
+}
+.TextR1{
+    padding:10px;
+    font-weight:600;
+    color: rgb(25, 24, 23);
+}
+
+.btn-signInR{
+    background: #EDB56A;
+    border-radius: 5px ;
+    border: 2px solid #e8b168;
+    width:100px;
+    height: 40px;
+    color: black;
+    align-items: center;
+    display: flex;
+    /* padding-left: 500px; */
+    margin-left:300px
+}
+
+.btn-signInR:hover {
+    background-color: #d77f14; /* Green */
+    color: rgb(14, 9, 9);
+    border: 2px solid #e8b168;
+  }
+ 

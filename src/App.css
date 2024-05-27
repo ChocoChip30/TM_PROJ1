@@ -1,0 +1,138 @@
+.App {
+  text-align: center;
+}
+
+.HomeText1{
+  font-size: 25px;
+}
+
+.cardtext2 card-title h5{
+  font-size: 25px;
+}
+
+.App-header {
+  background-color: #b9dfe8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+}
+
+.App-link {
+  color: #98d1e8;
+}
+
+.logo{
+height: 30px;
+width: 40px;
+}
+
+.nav-item{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.main_img{
+float: right;
+/* flex-direction: column; */
+margin-top: top;
+/* display: -webkit-box; */
+padding-top: 10%;
+margin-left: auto;
+}
+.card{
+  /* width:200px;
+  height:300px; */
+  padding-left: 5px;
+  padding-top: 10px;
+  float: bottom;
+  width: 100%;
+  background-color: rgb(171, 217, 228);
+  color: #6aaeae;
+  font-family: Verdana, sans-serif;
+}
+.card-text{
+ /* font-size: 80% */
+}
+
+.nav-link{
+  color: black;
+}
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  background-color: #d09d47;
+}
+.card-title{
+  color: black;
+  font-size: 25px;
+
+
+}
+.card-text{
+  color: rgb(45, 44, 44);
+  font-size: 15px;
+
+}
+.outsidePic{
+  padding: 100px;
+}
+
+.main_img{
+  float:right;
+  padding:10px;
+  height: 500px;
+  width: 500px;
+}
+
+.col{
+ color: black;
+}
+
+.text1main{
+  padding-left: 40px;
+}
+
+.HomeCard{
+  background-color: aliceblue;
+  padding-left: 20px;;
+  /* width:0px;
+  height:150px; */
+}
+
+.cardText{
+  font-size: 15px;
+  font-weight: 200;
+  font-family: 'Karla', sans-serif;;
+}
+/* 
+
+
+form{
+  height : 95vh;
+  margin: auto;
+  color:whitesmoke;
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(12, 60, 72, 0.8);
+  border-radius: 12px;
+  border: 1px solid rgba(57, 185, 217, 0.7);
+  padding:  5px 20px 15px;
+} */
+
+.form-div{
+  display: block;
+  overflow: auto;
+}
+
+.BTN-HOME{
+  background-color: #6aaeae;
+  border:#b9dfe8
+}
+
+.BTN-HOME:hover{
+  background-color:#4c7777;
+}

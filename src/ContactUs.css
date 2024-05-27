@@ -1,0 +1,37 @@
+.contact{
+    
+    float: left;
+   width:750px;
+   height:800px
+}
+
+.backforcontact{
+    background-color: rgb(15, 15, 15);
+}
+
+.formcontact{
+    background-color: white;
+    width:500px;
+    height:800px
+}
+
+.form-label1{
+    color: rgb(242, 240, 240);
+    float:left
+}
+
+.form-control7{
+    height:100px;
+    width:400px
+}
+.TextHeading{
+    color: rgb(243, 242, 242);
+    font-size: 30px;
+}
+
+.form-control6{
+    width: 400px;
+}
+.form-control5{
+    width:400px
+}

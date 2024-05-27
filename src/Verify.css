@@ -1,0 +1,73 @@
+/* .veripic{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  width: 20%;;
+  position: absolute;
+width: 256px;
+height: 223px;
+left: 58px;
+top: 82px;
+
+}
+.verifyDesign{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  width: 80%;
+  padding: 400px;
+  border: 2px solid white;
+} */
+.textveri{
+    position: absolute;
+width: 219px;
+height: 58px;
+left: 71px;
+top: 326px;
+font-family: 'Basic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+padding-bottom: 30px;
+color: #000000;
+
+}
+
+.textveri2{
+    position: absolute;
+width: 287px;
+height: 38px;
+left: 37px;
+top: 384px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+padding-bottom: 30px;
+
+color: #6A6767;
+
+}
+
+.textveri3{
+    position: absolute;
+width: 151px;
+height: 19px;
+left: 92px;
+top: 507px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+padding-bottom: 30px;
+color: #6A6767;
+}

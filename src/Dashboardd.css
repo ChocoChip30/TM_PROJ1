@@ -1,0 +1,73 @@
+.Navbar{
+    padding: 10px
+}
+
+
+.logod{
+height: 50px;
+width: 60px;
+/* padding-top: 8px;
+padding-left: 25px; */
+}
+
+.navbar-brand{
+    /* padding-left: 15px; */
+}
+
+.nav flex-column{
+    border:2px black;
+    background-color: rgb(208, 206, 206);
+}
+.verticalNav{
+    border: 1px solid rgb(214, 212, 212);
+    background-color: rgb(255, 255, 255);
+    width:150px;
+    height: 800px;
+    float: left;
+    padding-right: 30px;
+}
+
+.Dashboardboard{
+    background-color: rgb(202, 239, 237);
+    float: left;
+    width: 1600px;
+
+}
+.container text-center{
+float: left;
+}
+.variety2{
+    /* padding-left: 100px; */
+}
+
+.uploadPic{
+    width:200px;
+    height:200px;
+    float:left
+}
+
+.Text1{
+    float:left
+
+}
+.Text2{    float:left
+}
+
+.CARD1{
+    height:250px;
+    background-color: rgb(234, 244, 244);
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.CARD2{
+    height:250px;
+    background-color: rgb(234, 244, 244);
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+.searchPatient{
+    width:200px;
+    height:200px;
+    float:left
+}

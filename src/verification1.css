@@ -1,0 +1,46 @@
+.col-33{
+    font-family: 'Roboto';
+    color: #6A6767;
+    font-size: 16px;
+    width: 287px;
+    height: 38px;
+    
+}
+
+.col-32{
+padding:20px;
+padding-bottom: 5px;
+font-family: 'Basic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+}
+
+.col-34{
+    padding-top:60px;
+    padding-bottom: 5px;
+}
+.col-36{
+    padding-top: 40px;
+}
+.form-control{
+    width:400px;
+   align-items: center;
+}
+.input-group flex-nowrap{
+   align-items: center;
+}
+
+.btn-signIn{
+    background: #EDB56A;
+   border-radius: 5px ;
+   border: 2px solid #e8b168;
+   width:100px;
+   color: black;
+}
+
+.btn-signIn:hover {
+   background-color: #d77f14; /* Green */
+   color: rgb(14, 9, 9);
+   border: 2px solid #e8b168;
+ }

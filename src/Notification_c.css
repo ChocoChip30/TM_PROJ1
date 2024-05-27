@@ -1,0 +1,69 @@
+.card-imgN{
+    width:150px;
+    height:150px;
+    box-shadow: 0px 4px 4px 5px rgba(77, 124, 236, 0.25);
+border-radius: 10px;
+/* padding-top: 200px;
+padding-left: 300px */
+}
+
+.ImageN{
+    padding-left: 425px;
+
+}
+
+/* .noti_Card{
+    align-items: center;
+    width:600px;
+    height:800px
+} */
+
+.buttonNN{
+    padding-left: 450px;
+    
+}
+.btnN{
+    padding-left: 450px;
+    margin:5px;
+    background-color: rgb(1, 4, 6);
+    color: rgb(255, 255, 255);
+    border:solid rgb(204, 145, 57) 1px;
+    width:30px;
+    height:40px
+
+}
+
+.cardN{
+    padding: 60px;
+    width:1200px;
+    height:500px;
+    align-items: center;
+    box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+    background-color: rgb(171, 206, 237);
+}
+
+.noti_Div{
+align-items: center;
+align-content: center;
+}
+.card-titleN{
+    font-size: 35px;
+    align-items: center;
+    padding-left: 300px;
+    color:rgb(11, 6, 6)
+
+}
+.card-textN{
+    font-size: 25px;
+    align-items: center;
+    padding-left: 300px;
+    color:rgb(47, 44, 44)
+
+}
+
+.noti_Div{
+    align-items: center;
+    padding-left: 150px;
+    padding-top: 100px;
+}
